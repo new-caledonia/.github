@@ -1,0 +1,10 @@
+{
+  "name": "Commitlint",
+  "description": "Enforce commit lint for canonicalizing commits",
+  "iconName": "commitlint",
+  "categories": [
+      "Semantic Versioning"
+  ],
+  "filePatterns": [
+  ]
+}
